@@ -33,7 +33,7 @@ PRODUCTION ──────> Promote passed records to Star Schema (Fact_Fligh
        │
        ▼
 REPORT ──────────> Power BI dashboard connected live to MySQL production schema
-
+```
 
 🛠️ Tech Stack
 1.Language & Data Processing: Python (pandas, sqlalchemy, datetime)
