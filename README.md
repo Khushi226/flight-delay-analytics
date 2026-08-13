@@ -36,6 +36,7 @@ REPORT ──────────> Power BI dashboard connected live to MySQ
 ```
 
 🛠️ Tech Stack
+
 1.Language & Data Processing: Python (pandas, sqlalchemy, datetime)
 
 2.Database & Data Warehouse: MySQL (Staging Layer, Audit System, Star Schema Production Warehouse)
@@ -45,6 +46,7 @@ REPORT ──────────> Power BI dashboard connected live to MySQ
 4.Data Source: U.S. Department of Transportation (BTS Reporting Carrier On-Time Performance)
 
 ⚙️ Key Features & Data Quality Layer
+
 1.Custom Audit Engine: Logs missing aircraft tail numbers, invalid timestamps, and referential integrity breaches into a dedicated logging table rather than failing silently.
 
 2.Dimensional Modeling: Converts flat, raw flight records into a clean Star Schema with optimized Primary and Foreign keys for analytics.
