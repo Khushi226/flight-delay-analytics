@@ -52,6 +52,7 @@ REPORT ──────────> Power BI dashboard connected live to MySQ
 3.Business Logic Handling: Standardizes military time integers (HHMM), parses negative departure delays to categorize early flights, and handles complex cancelled-flight logic.
 
 🚀 How to Run the Pipeline
+
 1.Clone the repository.
 
 2.Download the raw dataset from the BTS On-Time Performance Database.
