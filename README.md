@@ -64,6 +64,3 @@ REPORT ──────────> Power BI dashboard connected live to MySQ
 4.Run etl_pipeline.py to execute the extraction, transformation, and loading phases.
 
 5.Open the .pbix file in Power BI and refresh the data source to view the dashboard.
-
-👤 Author
-Khushi Goyal
